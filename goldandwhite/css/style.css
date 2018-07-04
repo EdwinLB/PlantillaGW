@@ -210,12 +210,16 @@ section {
 }
 
 /*
-	About 01
+	Content Boxes
 */
 
 .contend-box-lg {
 	padding: 120px 0;
 }
+
+/*
+	Vertical Headings
+*/
 
 .vertical-heading h5 {
 	color: #f4c613;
@@ -236,13 +240,19 @@ section {
 	font-weight: 100;
 	line-height: 45px;
 }
-#about-right {
-	padding: 2px;
-}
+
+/*
+	About 01
+*/
+
 #about-right p:first-child {
 	margin-bottom: 30px;
+}
+#about-bottom {
+	margin-top: 60px;
+}
+#about-bottom img {
 	margin: 0 auto;
-	
 }
 
 
